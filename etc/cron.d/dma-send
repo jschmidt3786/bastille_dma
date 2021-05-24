@@ -1,0 +1,2 @@
+#@reboot root /usr/libexec/dma -q
+#@daily  root /usr/libexec/dma -q
